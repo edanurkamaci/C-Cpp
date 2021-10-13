@@ -1,0 +1,24 @@
+----------PERSON-1-------------
+
+Name= EDA NUR
+Surname= KAMACI
+Department= COMPUTER ENGINEERING
+Student NO: 706
+Gender= W
+
+----------PERSON-2-------------
+
+Name= JENNIFER
+Surname= ANNISTON
+Department= ACTOR
+Student NO: 132
+Gender= W
+
+----------PERSON-3-------------
+
+Name= Chris
+Surname= Evans
+Department= Actor
+Student NO: 999
+Gender= M
+
